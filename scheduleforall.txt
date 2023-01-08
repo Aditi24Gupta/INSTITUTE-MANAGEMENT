@@ -1,0 +1,33 @@
+ S.NO   DAY         COURSES                             SUBJECTS                       TIME
+ 1)     MONDAY      COMPUTER                            PYTHON                         9:00-11:00AM
+                    ALL                                 ENGLISH                        4:00-5:30PM
+                    FASHION DESIGNING                   FASHION BUSINESS               1:20-3:30PM
+                    BUSINESS ADMINISTRATION             ACCOUNTING                     8:00-9:00PM
+                    AEROSPACE LEARNING                  ATMOSPHERIC SCIENCES           2:00-4:00PM
+                    MEDICAL LINE                        DENTAL SCIENCES                12:00-1:45PM
+  2)    TUESDAY     COMPUTER                            VISUAL BASIC                   9:00-11:00AM
+                    ALL                                 SPORTS                         4:00-5:30PM
+                    FASHION DESIGNING                   FASHION AND APPAREL DESIGNING  1:00-3:30PM
+                    BUSINESS ADMINISTRATION             BUSINESS LAW                   7:00-9:00PM
+                    AEROSPACE LEARNING                  PROPULSION SYSTEM              3:00-4:00PM
+                    MEDICAL LINE                        HEART SURGERY LEARNING         11:00-1:45PM
+  3)    WEDNESDAY   COMPUTER                            WEB DESIGNING                  9:00-1:00AM
+                    ALL                                 ENGLISH                        4:00-5:30PM
+                    FASHION DESIGNING                   TEXTILE DESIGN                 1:00-3:30PM
+                    BUSINESS ADMINISTRATION             HUMAN RESOURCE MANAGEMENT      7:00-8:00PM
+                    AEROSPACE LEARNING                  AERODYNAMICS                   3:00-4:00PM
+                    MEDICAL LINE                        AYURVEDIC MEDICINE AND SURGERY 12:30-1:45PM
+  4)    THURSDAY    COMPUTER                            SOFTWARE DEVEL                 10:00-1:00AM
+                    ALL                                 DANCE                          4:00-5:30PM
+                    FASHION DESIGNING                   FASHION BUSINESS               1:00-2:00PM
+                    BUSINESS ADMINISTRATION             ACCOUNTING                     7:00-8:00PM
+                    AEROSPACE LEARNING                  AIRCRAFT DESIGN                2:45-4:00PM
+                    MEDICAL LINE                        EYE SURGERY LEARNING           12:30-1:45PM
+  5)    FRIDAY      COMPUTER                            HTML/C++                       10:00-1:00AM
+                    ALL                                 ACTING                         1:00-3:30PM
+                    FASHION DESIGNING                   FASHION AND APPAREL DESIGNING  5:00-6:00PM
+                    BUSINESS ADMINISTRATION             BUSINESS LAW                   7:00-8:00PM
+                    AEROSPACE LEARNING                  ATMOSPHERIC SCIENCES           12:45-2:20PM
+                    MEDICAL LINE                        DENTAL SCIENCES                11:00-12:30PM
+                    
+
